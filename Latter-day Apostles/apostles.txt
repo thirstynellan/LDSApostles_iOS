@@ -1,0 +1,123 @@
+1|Brigham Young|6/1/1801|8/29/1877|brigham_young|brigham_young_b
+2|Heber C. Kimball|6/14/1801|6/22/1868|heber_c_kimball|heber_c_kimball_b
+3|Lyman E. Johnson|10/24/1811|12/20/1859|lyman_e_johnson|lyman_e_johnson_b
+4|Joseph Smith, Jr.|12/23/1805|6/27/1844|joseph_smith|joseph_smith_b
+5|Oliver Cowdery|10/3/1806|3/3/1850|oliver_cowdery|oliver_cowdery_b
+6|David Whitmer|1/7/1805|1/25/1888|david_whitmer|david_whitmer_b
+7|Martin Harris|8/18/1783|7/10/1875|martin_harris|martin_harris_b
+8|David W. Patten|11/14/1799|10/25/1838|david_w_patten|david_w_patten_b
+9|Orson Hyde|1/8/1805|11/28/1878|orson_hyde|orson_hyde_b
+10|William E. McLellin|1/18/1806|4/24/1883|william_e_mlellin|william_e_mlellin_b
+11|Luke S. Johnson|11/3/1807|12/9/1861|luke_s_johnson|luke_s_johnson_b
+12|William B. Smith|3/13/1811|11/13/1893|william_smith|william_smith_b
+13|John F. Boynton|9/20/1811|10/20/1890|john_f_boynton|john_f_boynton_b
+14|Parley P. Pratt|4/12/1807|5/13/1857|parley_p_pratt|parley_p_pratt_b
+15|Thomas B. Marsh|11/1/1800|1/31/1866|thomas_b_marsh|thomas_b_marsh_b
+16|Orson Pratt|9/19/1811|10/3/1881|orson_pratt|orson_pratt_b
+17|John Taylor|11/1/1808|7/25/1887|john_taylor|john_taylor_b
+18|John E. Page|2/25/1799|10/14/1867|john_e_page|john_e_page_b
+19|Wilford Woodruff|3/1/1807|9/2/1898|wilford_woodruff|wilford_woodruff_b
+20|George A. Smith|6/26/1817|9/1/1875|george_a_smith|george_a_smith_b
+21|Willard Richards|6/24/1804|3/11/1854|willard_richards|willard_richards_b
+22|Hyrum Smith|2/9/1800|6/27/1844|hyrum_smith|hyrum_smith_b
+23|Lyman Wight|5/9/1796|3/31/1858|lyman_wight|lyman_wight_b
+24|Amasa M. Lyman|3/30/1813|2/4/1877|amasa_m_lyman|amasa_m_lyman_b
+25|Ezra T. Benson|2/22/1811|9/3/1869|ezra_t_benson|ezra_t_benson_b
+26|Charles C. Rich|8/21/1809|11/17/1883|charles_c_rich|charles_c_rich_b
+27|Lorenzo Snow|4/3/1814|10/10/1901|lorenzo_snow|lorenzo_snow_b
+28|Erastus Snow|11/9/1818|5/27/1888|erastus_snow|erastus_snow_b
+29|Franklin D. Richards|4/2/1821|12/9/1899|franklin_d_richards|franklin_d_richards_b
+30|Jedediah M. Grant|2/21/1816|12/1/1856|jedediah_m_grant|jedediah_m_grant_b
+31|John Willard Young|10/1/1844|2/12/1924|john_willard_young|john_willard_young_b
+32|Daniel H. Wells|10/27/1814|3/24/1891|daniel_h_wells|daniel_h_wells_b
+33|George Q. Cannon|1/11/1827|4/12/1901|george_q_cannon|george_q_cannon_b
+34|Brigham Young, Jr.|12/18/1836|4/11/1903|brigham_young_jr|brigham_young_jr_b
+35|Joseph Angell Young|10/14/1834|8/5/1875|joseph_angell_young|joseph_angell_young_b
+36|Joseph F. Smith|11/13/1838|11/19/1918|joseph_f_smith|joseph_f_smith_b
+37|Albert Carrington|1/8/1813|9/19/1889|albert_carrington|albert_carrington_b
+38|Moses Thatcher|2/2/1842|8/21/1909|moses_thatcher|moses_thatcher_b
+39|Francis M. Lyman|1/12/1840|11/18/1916|francis_m_lyman|francis_m_lyman_b
+40|John Henry Smith|9/18/1848|10/13/1911|john_henry_smith|john_henry_smith_b
+41|George Teasdale|12/8/1831|6/9/1907|george_teasdale|george_teasdale_b
+42|Heber J. Grant|11/22/1856|5/14/1945|heber_j_grant|heber_j_grant_b
+43|John W. Taylor|5/15/1858|10/10/1916|john_w_taylor|john_w_taylor_b
+44|Marriner W. Merrill|9/25/1832|2/6/1906|marriner_w_merrill|marriner_w_merrill_b
+45|Anthon H. Lund|5/15/1844|3/2/1921|anthon_h_lund|anthon_h_lund_b
+46|Abraham H. Cannon|3/12/1859|7/19/1896|abraham_h_cannon|abraham_h_cannon_b
+47|Matthias F. Cowley|8/25/1858|6/16/1940|matthias_f_cowley|matthias_f_cowley_b
+48|Abraham O. Woodruff|11/23/1872|6/20/1904|abraham_o_woodruff|abraham_o_woodruff_b
+49|Rudger Clawson|3/12/1857|6/21/1943|rudger_clawson|rudger_clawson_b
+50|Reed Smoot|1/10/1862|2/9/1941|reed_smoot|reed_smoot_b
+51|Hyrum M. Smith|3/21/1872|1/23/1918|hyrum_m_smith|hyrum_m_smith_b
+52|George Albert Smith|4/4/1870|4/4/1951|george_albert_smith|george_albert_smith_b
+53|Charles W. Penrose|2/4/1832|5/16/1925|charles_w_penrose|charles_w_penrose_b
+54|George F. Richards|2/23/1861|8/8/1950|george_f_richards|george_f_richards_b
+55|Orson F. Whitney|7/1/1855|5/16/1931|orson_f_whitney|orson_f_whitney_b
+56|David O. McKay|9/8/1873|1/18/1970|david_o_mckay|david_o_mckay_b
+57|Anthony W. Ivins|9/16/1852|9/23/1934|anthony_w_ivins|anthony_w_ivins_b
+58|Joseph Fielding Smith|7/19/1876|7/2/1972|joseph_fielding_smith|joseph_fielding_smith_b
+59|James E. Talmage|9/21/1862|7/27/1933|james_e_talmage|james_e_talmage_b
+60|Stephen L. Richards|6/18/1879|5/19/1959|stephen_l_richards|stephen_l_richards_b
+61|Richard R. Lyman|11/23/1870|12/31/1963|richard_r_lyman|richard_r_lyman_b
+62|Melvin J. Ballard|2/9/1873|7/30/1939|melvin_j_ballard|melvin_j_ballard_b
+63|John A. Widtsoe|1/31/1872|11/29/1952|john_a_widtsoe|john_a_widtsoe_b
+64|Joseph F. Merrill|8/24/1868|2/3/1952|joseph_f_merrill|joseph_f_merrill_b
+65|Charles A. Callis|5/4/1865|1/21/1947|charles_a_callis|charles_a_callis_b
+66|Alonzo A. Hinckley|4/23/1870|12/22/1936|alonzo_a_hinckley|alonzo_a_hinckley_b
+67|J. Reuben Clark, Jr.|9/1/1871|10/6/1961|j_reuben_clark|j_reuben_clark_b
+68|Albert E. Bowen|10/31/1875|7/15/1953|albert_e_bowen|albert_e_bowen_b
+69|Sylvester Q. Cannon|6/10/1877|5/29/1943|sylvester_q_cannon|sylvester_q_cannon_b
+70|Harold B. Lee|3/28/1899|12/26/1973|harold_b_lee|harold_b_lee_b
+71|Spencer W. Kimball|3/28/1895|11/5/1985|spencer_w_kimball|spencer_w_kimball_b
+72|Ezra Taft Benson|8/4/1899|5/30/1994|ezra_taft_benson|ezra_taft_benson_b
+73|Mark E. Petersen|11/7/1900|1/11/1984|mark_e_petersen|mark_e_petersen_b
+74|Matthew Cowley|8/2/1897|12/13/1953|matthew_cowley|matthew_cowley_b
+75|Henry D. Moyle|4/22/1889|9/18/1963|henry_d_moyle|henry_d_moyle_b
+76|Delbert L. Stapley|12/1/1896|8/19/1978|delbert_l_stapley|delbert_l_stapley_b
+77|Marion G. Romney|9/19/1897|5/20/1988|marion_g_romney|marion_g_romney_b
+78|LeGrand Richards|2/6/1886|1/11/1983|legrand_richards|legrand_richards_b
+79|Adam S. Bennion|12/2/1886|2/11/1958|adam_s_bennion|adam_s_bennion_b
+80|Richard L. Evans|3/23/1906|11/1/1971|richard_l_evans|richard_l_evans_b
+81|George Q. Morris|2/20/1874|4/23/1962|george_q_morris|george_q_morris_b
+82|Hugh B. Brown|10/24/1883|12/2/1975|hugh_b_brown|hugh_b_brown_b
+83|Howard W. Hunter|11/14/1907|3/3/1995|howard_w_hunter|howard_w_hunter_b
+84|Gordon B. Hinckley|6/23/1910|1/27/2008|gordon_b_hinckley|gordon_b_hinckley_b
+85|N. Eldon Tanner|5/9/1898|11/27/1982|n_eldon_tanner|n_eldon_tanner_b
+86|Thomas S. Monson|8/21/1927|1/2/2018|thomas_s_monson|thomas_s_monson_b
+87|Alvin R. Dyer|1/1/1903|3/6/1977|alvin_r_dyer|alvin_r_dyer_b
+88|Boyd K. Packer|9/10/1924|7/3/2015|boyd_k_packer|boyd_k_packer_b
+89|Marvin J. Ashton|5/6/1915|2/25/1994|marvin_j_ashton|marvin_j_ashton_b
+90|Bruce R. McConkie|7/29/1915|4/19/1985|bruce_r_mcconkie|bruce_r_mcconkie_b
+91|L. Tom Perry|8/5/1922|5/30/2015|l_tom_perry|l_tom_perry_b
+92|David B. Haight|9/2/1906|7/31/2004|david_b_haight|david_b_haight_b
+93|James E. Faust|7/31/1920|8/10/2007|james_e_faust|james_e_faust_b
+94|Neal A. Maxwell|7/6/1926|7/21/2004|neal_a_maxwell|neal_a_maxwell_b
+95|Russell M. Nelson|9/9/1924|null|russell_m_nelson|russell_m_nelson_b
+96|Dallin H. Oaks|8/12/1932|null|dallin_h_oaks|dallin_h_oaks_b
+97|M. Russell Ballard|10/8/1928|11/12/2023|m_russell_ballard|m_russell_ballard_b
+98|Joseph B. Wirthlin|6/11/1917|12/1/2008|joseph_b_wirthlin|joseph_b_wirthlin_b
+99|Richard G. Scott|11/7/1928|9/22/2015|richard_g_scott|richard_g_scott_b
+100|Robert D. Hales|8/24/1932|null|robert_d_hales|robert_d_hales_b
+101|Jeffrey R. Holland|12/2/1940|null|jeffrey_r_holland|jeffrey_r_holland_b
+102|Henry B. Eyring|5/31/1933|null|henry_b_eyring|henry_b_eyring_b
+103|Dieter F. Uchtdorf|11/6/1940|null|dieter_f_uchtdorf|dieter_f_uchtdorf_b
+104|David A. Bednar|6/15/1952|null|david_a_bednar|david_a_bednar_b
+105|Quentin L. Cook|9/8/1940|null|quentin_l_cook|quentin_l_cook_b
+106|D. Todd Christofferson|1/24/1945|null|d_todd_christofferson|d_todd_christofferson_b
+107|Neil L. Andersen|8/9/1951|null|neil_l_andersen|neil_l_andersen_b
+108|Jesse Gause|1985|1836|jesse_gause|jesse_gause_b
+109|Sidney Rigdon|2/19/1793|7/14/1876|sidney_rigdon|sidney_rigdon_b
+110|Frederick G. Williams|10/28/1787|10/10/1842|frederick_g_williams|frederick_g_williams_b
+111|John Smith|7/16/1781|5/23/1854|john_smith|john_smith_b
+112|Joseph Smith, Sr.|7/12/1771|9/14/1840|joseph_smith_sr|joseph_smith_sr_b
+113|William Law|9/8/1809|1/19/1892|william_law|william_law_b
+114|Charles W. Nibley|2/5/1849|12/11/1931|charles_w_nibley|charles_w_nibley_b
+115|Thorpe B. Isaacson|9/6/1898|11/9/1970|thorpe_b_isaacson|thorpe_b_isaacson_b
+116|John C. Bennett|8/3/1804|8/5/1867|john_c_bennett|john_c_bennett_b
+117|John R. Winder|12/11/1821|3/27/1910|john_r_winder|john_r_winder_b
+118|Ronald A. Rasband|02/06/1951|null|ronald_a_rasband|ronald_a_rasband_b
+119|Gary E. Stevenson|08/06/1955|null|gary_e_stevenson|gary_e_stevenson_b
+120|Dale G. Renlund|11/13/1952|null|dale_g_renlund|dale_g_renlund_b
+121|Gerrit W. Gong|12/23/1953|null|gerrit_w_gong|gerrit_w_gong_b
+122|Ulisses Soares|10/2/1958|null|ulisses_soares|ulisses_soares_b
+123|Patrick Kearon|07/18/1961|null|patrick_kearon|patrick_kearon_b
